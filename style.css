@@ -197,16 +197,17 @@ font-weight: 100;
 
 
 /*galeria*/
-/*Kurcze dalej nie wiem, który fragment kodu wywołuje mi marginesy obok obrazków i pod nimi... :/*/
+
 .gallery {
 	width: 100%;
+	height: 300px;
 	margin: 0;
 	padding: 0;
 	margin-bottom: 30px;
 }
 
 .gallery .surround {
-	height: 100px;
+	height: 200px;
 	width: 100%;
 	position: relative;
 }
@@ -235,7 +236,7 @@ font-weight: 100;
 
 .gallery .layer i.fa {
 	font-size: 20px;
-	margin-top: 40px;
+	margin-top: 80px;
 	padding: 5px;
 	color: rgba(255, 255, 255, .9);
 
